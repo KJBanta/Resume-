@@ -1,0 +1,7 @@
+{
+    "css.validate": true,
+  "editor.tabSize": 2,
+  "files.associations": {
+    "*.css": "css",
+    "*.html": "html"
+}
