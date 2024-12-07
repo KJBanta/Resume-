@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Jareed O. Banta's Art Portfolio - Illustrator, Designer, and Cartoonist. Explore my creative works.">
+  <title>Vamp's Art Dump</title>
+
+  <!-- Link to FontAwesome for icons -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" rel="stylesheet">
+
+  <!-- Link to the CSS file -->
+  <link rel="stylesheet" href="CSS PORTFOLIO.css">
+</head>
+
+<body>
+  <!-- Header Section -->
+  <header class="intro-section">
+    <div class="intro-container">
+      <div class="text-content">
+        <h1>ART PORTFOLIO</h1>
+        <p>
+          Hello! I'm Jareed O. Banta, a DESIGNER, ILLUSTRATOR, AND CARTOONIST. Welcome to my art portfolio!
+        </p>
+      </div>
+      <div class="profile-picture">
+        <img src="profile.jpg" alt="Jareed O. Banta - Profile Picture" />
+      </div>
+    </div>
+  </header>
+
+  <!-- Gallery Section -->
+  <section class="gallery">
+    <h2>My Artworks</h2>
+    <div class="art-grid">
+      <!-- Artwork 1 -->
+      <div class="art-item">
+        <img src="artwork 1.png" alt="Sketch Artwork" />
+        <div class="art-description">
+          <p>Sketch</p>
+        </div>
+      </div>
+
+      <!-- Artwork 2 -->
+      <div class="art-item">
+        <img src="artwork 2.jpg" alt="Moira Character Artwork" />
+        <div class="art-description">
+          <p>Moira</p>
+        </div>
+      </div>
+
+      <!-- Artwork 3 -->
+      <div class="art-item">
+        <img src="artwork3.png" alt="Personal Art" />
+        <div class="art-description">
+          <p>Personal Art</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Social Icons Section -->
+  <section class="social-icons">
+    <!-- Facebook Icon -->
+    <a href="https://www.facebook.com/jareed.banta" class="icon" target="_blank" rel="noopener noreferrer" aria-label="Visit my Facebook page">
+      <img src="—Pngtree—facebook icon facebook logo_3584837.png" alt="Facebook Logo" class="social-icon" />
+    </a>
+
+    <!-- Instagram Icon -->
+    <a href="https://www.instagram.com/r3va.mp_draws/" class="icon" target="_blank" rel="noopener noreferrer" aria-label="Visit my Instagram page">
+      <img src="—Pngtree—instagram icon instagram logo_3584853.png" alt="Instagram Logo" class="social-icon" />
+    </a>
+  </section>
+
+  <!-- Footer Section -->
+  <footer class="footer">
+    <p>© 2024 Vamp's Art Dump. All rights reserved.</p>
+  </footer>
+</body>
+
+</html>
